@@ -1,5 +1,6 @@
 import sqlite3
 
+
 class DatabaseManager:
 
     def __init__(self, db_name="game_scores.db"):
